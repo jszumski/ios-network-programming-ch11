@@ -1,7 +1,7 @@
 # Professional iOS Network Programming
 ## Chapter 11: Inter-app Communication
 
-The example code from Chapter 8 of my book, [Professional iOS Network Programming](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118362403,descCd-description.html "Professional iOS Network Programming: Connecting the Enterprise to the iPhone and iPad").  Further discussion is also available on the [Wiley P2P forum](http://p2p.wrox.com/book-professional-ios-network-programming-connecting-enterprise-iphone-ipad-708/).
+The example code from Chapter 11 of my book, [Professional iOS Network Programming](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118362403,descCd-description.html "Professional iOS Network Programming: Connecting the Enterprise to the iPhone and iPad").  Further discussion is also available on the [Wiley P2P forum](http://p2p.wrox.com/book-professional-ios-network-programming-connecting-enterprise-iphone-ipad-708/).
 
 
 ### URL Schemes and Keychain
